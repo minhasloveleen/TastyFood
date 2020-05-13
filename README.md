@@ -4,3 +4,4 @@ Tasty food is a static website , fully responsive, that can perfectly seen clear
 Different pages made such as categlog page, index page contact page.
 **google custom font used **
 ## other software used : Notepad++
+check the Project  https://minhasloveleen.github.io/TastyFood/
